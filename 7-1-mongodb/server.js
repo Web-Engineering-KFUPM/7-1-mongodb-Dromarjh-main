@@ -21,14 +21,14 @@
  *================================================================
  * TODO-2: Setup username and password to create a database user
  * ===============================================================
- *   - write any usrename to create a database user.
+ *   - write any username to create a database user.
  *   - write any password.
- *   - click on the button create a database user
+ *   - click on the button to create a database user
  *
  * ============================================
  * TODO-3 Allow access to the network
  * ============================================
- *   - choose database & network access from the secrity option.
+ *   - choose database & network access from the security option.
  *   - choose IP access list
  *   - edit IP address and set 0.0.0.0/0 and confirm it.
  *
