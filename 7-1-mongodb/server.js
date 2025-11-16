@@ -28,9 +28,9 @@
  * ============================================
  * TODO-3 Allow access to the network
  * ============================================
- *   - choose database & network access from the secritu option.
+ *   - choose database & network access from the secrity option.
  *   - choose IP access list
- *   - edit IP adress and set 0.0.0.0/0 and confirm it.
+ *   - edit IP address and set 0.0.0.0/0 and confirm it.
  *
  * ============================================
  * TODO-4 Download and setup Monogsh (Do it if you dont have mongosh, otherwise skip this step)
@@ -106,7 +106,6 @@
  *  - Go to cluster click on connect and select MongoDB for VS code
  *  - Copy the connection string.
  *       Example connection string: mongodb+srv://mjwdmufti:<db_password>@cluster0.wwsbvm7.mongodb.net
- *  - write your database password in place of <db_password> in the connection string.
  *  - write your database password in place of <db_password> in the connection string.
  *  - Run server: node server.js to test connection.
  * 
