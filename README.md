@@ -7,8 +7,8 @@ In this lab, students will learn how to use MongoDB via the **command line (mong
 > **Note:** Follow `server.js` to implement the lab. The file contains TODO blocks that describe exactly what to build.
 
 ## 📖 Reading Assignment
-- **7.1 MongoDB:** [https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/7/section/1](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/7/section/1)
-- **7.2 Mongoose:** [https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/7/section/2](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/7/section/2)
+- 7.1 MongoDB
+- 7.2 Mongoose
 
 ---
 
